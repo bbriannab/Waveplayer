@@ -27,7 +27,7 @@ This project is a Java audio player designed to play .wav sound files while util
 
 **List:** Browse and manage a list of uploaded music files.
 
-## Executing program
+## Executing the Program
 1. Clone this repository to your local machine.
 2. Ensure that **Java** is installed on your system. You can verify this by running ``` java -version ``` in your terminal.
 3. Navigate to the Waveplayer folder where the program is located.
